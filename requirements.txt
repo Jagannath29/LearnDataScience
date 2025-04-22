@@ -4,4 +4,4 @@ seaborn
 matplotlib
 scikit-learn
 plotly
-nbformat
+nbformat == 4.3.0
