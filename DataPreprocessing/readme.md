@@ -13,3 +13,12 @@ Why preprocess?
 - Transform data so it's suitable for modeling.
 - Improve model performance
 - Generate more reliable results.
+
+
+Tools used:
+- pandas
+- numpy
+- seaborn
+- matplotli
+- collections
+- plotly
